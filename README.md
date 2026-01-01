@@ -1,4 +1,4 @@
-## Pinot Noir
+## Security Researcher
 
 ### Certification
 - OSEP (OffSec Experienced Penetration Tester)
