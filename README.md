@@ -1,4 +1,4 @@
-# 👾 Security Researcher | Bug Bounty Hunter
+# Security Researcher
 
 ## 🧠 About Me
 - 🔐 Security Researcher
