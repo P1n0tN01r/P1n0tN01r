@@ -1,16 +1,14 @@
-## Hi there 👋
+# 👾 Security Researcher | Bug Bounty Hunter
 
-<!--
-**P1n0tN01r/P1n0tN01r** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🧠 About Me
+- 🔐 Security Researcher
+- 🛠️ Focus on **Red Teaming**, **Web**, **Internal**, **External**, **Hardware IoT**, **Mobile**
+- 🧪 Tools for Security Research
+- ✍️ Writeups & PoCs  
 
-Here are some ideas to get you started:
+## 📫 Contact
+- 📧 Email: `Unknown`
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+⚠️ **All research is conducted ethically and responsibly.**
